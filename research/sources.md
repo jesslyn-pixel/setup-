@@ -14,7 +14,7 @@ How B2B SaaS companies and practitioners use YouTube as a content channel to dri
 | 5 | Rob Walling | MicroConf | https://www.youtube.com/@MicroConf | Founder/Investor | Bootstrapped SaaS expert, invested in 120+ startups, covers content-led growth for indie SaaS |
 | 6 | Y Combinator | Y Combinator | https://www.youtube.com/@ycombinator | Accelerator | Alumni include Stripe, Dropbox, Zapier — shares go-to-market and content strategy from top founders |
 | 7 | Adam Erhart | Adam Erhart | https://www.youtube.com/@AdamErhart | Marketing Consultant | Specializes in B2B SaaS marketing, very tactical YouTube content on channel growth and strategy |
-| 8 | Jonathan Rintala | Jonathan Rintala | https://www.youtube.com/@JonathanRintala | Founder | Co-founder of Univid (SaaS), documents B2B content and YouTube experiments from 0 to $5M ARR |
+| 8 | Adam Robinson | RB2B | https://www.youtube.com/@rb2b | Founder/Operator | Scaled 3 SaaS companies to $35M combined ARR, pioneer of founder brand content + inbound-led outbound via YouTube and LinkedIn |
 | 9 | Foundation Inc | Foundation Inc | https://www.youtube.com/@FoundationInc | Agency | Research-driven B2B SaaS content agency, breaks down YouTube strategies of top SaaS companies |
 | 10 | Sam Dunning | Breaking B2B | https://www.youtube.com/@BreakingB2B | Agency/Practitioner | Runs SEO and YouTube strategy for B2B SaaS companies, interviews top YouTube practitioners, very tactical 2026 content |
 
