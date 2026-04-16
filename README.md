@@ -76,6 +76,16 @@ Instead of collecting a large volume of posts, I focused on extracting high-sign
 - The types of narratives they use
 - Their positioning on key topics like AI, SaaS, and startup growth
 
+## Research Approach
+
+This research combines two types of content:
+
+- **YouTube (long-form)** to understand deeper thinking, workflows, and strategic decision-making  
+- **LinkedIn (short-form)** to analyze how ideas are communicated, positioned, and simplified for audience engagement  
+
+Some experts appear across both platforms, while others are platform-specific. 
+This allows for deeper analysis of certain high-signal operators while still maintaining a range of perspectives.
+
 ### Key Observations
 
 1. **Contrarian hooks drive engagement**  
