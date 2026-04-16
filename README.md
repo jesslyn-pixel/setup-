@@ -66,3 +66,29 @@ Located in [`/research/youtube-transcripts/`](research/youtube-transcripts/)
 3. **Quality over quantity** — optimize for ICP (ideal customer profile) leads, not views or subscribers
 4. **YouTube fits every stage of the funnel** — from top-of-funnel awareness videos to bottom-of-funnel case studies and demos
 5. **Founder brand matters** — the most successful B2B SaaS companies use their founders as the face of their YouTube channel
+
+## LinkedIn Content Analysis
+
+To understand how top SaaS operators and creators communicate ideas, I analyzed recent LinkedIn posts from selected experts.
+
+Instead of collecting a large volume of posts, I focused on extracting high-signal insights from each creator’s content, including:
+- How they structure posts
+- The types of narratives they use
+- Their positioning on key topics like AI, SaaS, and startup growth
+
+### Key Observations
+
+1. **Contrarian hooks drive engagement**  
+  Many creators use strong or opposing opinions (e.g. anti-AI hype, “old SaaS is dying”) to capture attention.
+
+2. **Simplicity is a recurring theme**  
+  Multiple experts emphasize that successful SaaS products focus on solving one clear problem rather than adding complexity.
+
+3. **AI is treated as a tool, not a solution**  
+  While AI is widely discussed, most experts agree that it amplifies existing systems rather than replacing fundamentals.
+
+4. **Execution > ideas**  
+  Across all creators, consistent execution, validation, and real user feedback are prioritized over theoretical ideas.
+
+5. **Storytelling + experience builds credibility**  
+  Posts that include personal experience, metrics, or real outcomes tend to be more persuasive than generic advice.
