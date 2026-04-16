@@ -1,53 +1,56 @@
-## Post: RB2B crosses milestone (team vs AI narrative)
+## Post: “Last week I posted…” (AI & simplicity)
 
-- Date: 2026 (approx)
-- Link: https://www.linkedin.com/posts/retentionadam_im-thrilled...
-- Topic: Startup growth / team building / narrative framing
-
-Summary:
-Adam highlights RB2B’s growth milestone but challenges the popular narrative that their success is driven by "3 people + AI". Instead, he emphasizes that real growth comes from a strong team of 30+ people and improved management practices after earlier failures.
-
-Key Takeaways:
-- Viral narratives (e.g. "AI replaces people") are often exaggerated for attention
-- Real business growth is still heavily dependent on team execution
-- Leadership maturity (better communication, structure) drives sustainable results
-- Publicly appreciating team members strengthens company culture
-
-Notable Insight:
-"Content that performs on LinkedIn is not always the full truth — it's often optimized for engagement."
-
-Observations:
-- Uses contrast: viral claim vs reality
-- Mixes metrics + humility → builds credibility
-- Heavy use of gratitude → humanizes founder brand
-
-  ## Post: "I don’t use AI in my content" (AI vs authenticity)
-
-- Date: 2026 (approx)
 - Link: https://www.linkedin.com/posts/retentionadam_last-week-i-posted...
-- Topic: Content strategy / AI usage / personal branding
+- Topic: AI usage / simplicity / founder lifestyle
 
 Summary:
-Adam responds to reactions from his previous post about not using AI for content. He clarifies his stance—it's not that AI is useless, but over-reliance on it leads to generic, low-impact content. He emphasizes that strong content comes from lived experience, not generated ideas.
+Adam reflects on a discussion about AI usage and admits he barely uses it in his daily workflow. Instead of relying on tools, he argues that simplifying work and eliminating unnecessary tasks can be more powerful than adding AI.
 
 Key Takeaways:
-- AI-generated content often lacks originality and depth
-- Personal experience is the core of high-performing LinkedIn posts
-- AI should assist, not replace thinking
-- Audience trust is built through authenticity, not polish
+- Not everything needs to be optimized with AI
+- Many tasks people automate shouldn’t exist in the first place
+- Simplicity can create high leverage without additional tools
+- Systems and lifestyle design matter more than tools
 
 Notable Insight:
-"Good content comes from doing the work, not prompting the work."
+“What if half the things people use AI for never actually needed to be done?” :contentReference[oaicite:0]{index=0}
 
-Observations:
-- Uses strong opinion (slightly controversial → drives engagement)
-- Builds authority by taking a clear stance (anti-overuse of AI)
-- Reinforces personal brand as “operator, not theorist”
+---
 
-  ## Pattern Noticed (Adam Robinson)
+## Post: RB2B milestone (team vs AI narrative)
 
-- Frequently shares real metrics (ARR, churn, growth)
-- Alternates between:
-  - transparent failure posts
-  - high-performance growth posts
-- Uses contrarian angles to stand out (e.g. "AI is not the real story")
+- Link: https://www.linkedin.com/posts/retentionadam_im-thrilled...
+- Topic: Startup growth / narrative vs reality
+
+Summary:
+Adam celebrates RB2B’s growth milestone but pushes back against the narrative that success came from “a few people + AI.” He highlights that real growth came from a larger team and improved leadership.
+
+Key Takeaways:
+- Viral narratives oversimplify reality
+- Growth is driven by teams, not just tools
+- Leadership and execution matter more than hype
+- Public storytelling is often optimized for engagement
+
+Notable Insight:
+High-performing content is often simplified or exaggerated to perform better on LinkedIn
+
+---
+
+## Quick Pattern (Adam Robinson)
+
+- Challenges popular narratives (especially around AI)
+- Emphasizes **simplicity over tools**
+- Mix of:
+  - storytelling (company growth)
+  - contrarian opinions (anti-hype takes)
+- Builds authority through **real experience, not theory**
+
+---
+
+## Observations
+
+- Frequently contrasts “what people believe” vs “what’s actually true”
+- Uses vulnerability (admitting he doesn’t use AI) to stand out
+- Content balances:
+  - honesty
+  - slight controversy → drives engagement
