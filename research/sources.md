@@ -16,7 +16,7 @@ How B2B SaaS companies and practitioners use YouTube as a content channel to dri
 | 7 | Adam Erhart | Adam Erhart | https://www.youtube.com/@AdamErhart | Marketing Consultant | Specializes in B2B SaaS marketing, very tactical YouTube content on channel growth and strategy |
 | 8 | Jonathan Rintala | Jonathan Rintala | https://www.youtube.com/@JonathanRintala | Founder | Co-founder of Univid (SaaS), documents B2B content and YouTube experiments from 0 to $5M ARR |
 | 9 | Foundation Inc | Foundation Inc | https://www.youtube.com/@FoundationInc | Agency | Research-driven B2B SaaS content agency, breaks down YouTube strategies of top SaaS companies |
-| 10 | Kevin Indig | Growth Memo | https://www.kevinindig.com | Operator/Advisor | Former SEO lead at Shopify and G2, covers content strategy and YouTube's role in B2B growth |
+| 10 | Sam Dunning | Breaking B2B | https://www.youtube.com/@BreakingB2B | Agency/Practitioner | Runs SEO and YouTube strategy for B2B SaaS companies, interviews top YouTube practitioners, very tactical 2026 content |
 
 ## Selection Criteria
 These experts were selected because they:
