@@ -37,6 +37,8 @@
 
 I chose this topic because I believe YouTube is still one of the most impactful platforms globally, even with the rise of short-form video. Unlike TikTok or Instagram Reels, YouTube offers in-depth, long-form content that is far more informative and detailed. It's also where the most credible voices in the B2B SaaS space are — founders, operators, and practitioners who have actually built and scaled real companies share their knowledge there in ways that short-form content simply can't match.
 
+Out of all the topics available, YouTube content strategy is also the one I understand best. For the other topics, I only have a surface-level understanding. With YouTube, I have a stronger grasp of how the platform works, what makes content perform, and why it matters — which made me feel I could research this topic more meaningfully and not just go through the motions.
+
 ## Why I Chose These Experts
 
 All of the experts in this research either run or have run real B2B SaaS businesses. They don't just write about strategy — they've actually executed it at scale. After reading through their transcripts, I found that their insights are grounded in real experience, which makes them far more credible and useful than generic marketing advice. Each one brings a different perspective: some are founders, some are operators, some run agencies — which gives this research a well-rounded view of how YouTube fits into B2B SaaS growth.
